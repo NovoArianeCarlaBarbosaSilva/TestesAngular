@@ -1,0 +1,13 @@
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.exe
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.deps.json
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.runtimeconfig.json
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.runtimeconfig.dev.json
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.dll
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.pdb
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.csprojAssemblyReference.cache
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.AssemblyInfoInputs.cache
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.AssemblyInfo.cs
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.csproj.CoreCompileInputs.cache
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.dll
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.pdb
+C:\Users\Ariane\Desktop\Testes\TreinamentoC#\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.genruntimeconfig.cache
